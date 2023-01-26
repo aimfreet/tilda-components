@@ -1,5 +1,5 @@
-#React components for Tilda Design System
-##Getting Started
+# React components for Tilda Design System
+## Getting Started
 ```
 cd tilda-components
 npm install
